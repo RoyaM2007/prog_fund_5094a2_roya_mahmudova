@@ -9,6 +9,7 @@ int main() {
 	const Pİ=3.14;
 	printf("const=%f\n",Pİ);
 	printf("a++=%d\n",a++);
+	return 0;
 
 }
 
